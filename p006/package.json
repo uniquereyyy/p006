@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://uniquereyyy.github.io/p006",
+  "homepage":"https://github.com/uniquereyyy/p006.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
